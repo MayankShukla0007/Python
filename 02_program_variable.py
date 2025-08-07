@@ -7,3 +7,4 @@ print("My age is: ", age)
 
 print(type (Name))
 print(type (age))
+print(type (price))
